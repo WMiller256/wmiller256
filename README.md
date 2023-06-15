@@ -15,6 +15,6 @@ Miller, William J., Barnes, Jason W., & MacKenzie, Shannon M. <a href="https://i
 <a href="https://stackoverflow.com/users/10659910/william-miller"><img src="https://stackoverflow.com/users/flair/10659910.png" width="208" height="58" alt="Profile for William Miller at Stack Overflow" title="Profile for William Miller at Stack Overflow"></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wmiller256&show_icons=true&locale=en&layout=compact" height=200 alt="wmiller256 language stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wmiller256&show_icons=true&locale=en&layout=compact" height=175 alt="wmiller256 language stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wmiller256&show_icons=true&locale=en" height=200 alt="wmiller256" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wmiller256&show_icons=true&locale=en" height=175 alt="wmiller256" /></p>
