@@ -1,7 +1,7 @@
 
 <h3> About </h3>
 
-I am an astrophysicist specalizing in computational astrophysics and an Associate Researcher for the University of Idaho. I am also the co-owner and lead developer for Simian Inc, a proprietary trading group which performs asset management through the algorithmic trading of securities and derivatives.
+I am an astrophysicist specalizing in computational astrophysics and an Associate Researcher for the University of Idaho. I am also the co-owner and lead developer for Simian LLC, a proprietary trading group which performs asset management through the algorithmic trading of securities and derivatives.
 
 <h3> Recent Publications </h3>
 
